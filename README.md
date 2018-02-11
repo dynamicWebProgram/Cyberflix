@@ -21,7 +21,7 @@ Note: Jar files and servlets are included
 
 
 
-![alt tag](http://i64.tinypic.com/25fmuco.png"")
+![alt tag](http://i64.tinypic.com/mc4ux1.png"")
 
 ## Authors
 
