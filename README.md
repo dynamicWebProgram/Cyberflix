@@ -15,7 +15,7 @@ Note: Jar files and servlets are included
 
 * [Eclipse Java EE IDE for Web Developers](https://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/indigosr2)
 * [Tomcat Server 8.5](https://tomcat.apache.org/download-80.cgi#8.5.27)
-- [Click here](http://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/) for instructions on how to install the Tomcat Server
+  - [Click here](http://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/) for instructions on how to install the Tomcat Server
 
 ### Cyberflix Homepage
 
