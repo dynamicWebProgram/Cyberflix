@@ -17,16 +17,11 @@ Note: Jar files and servlets are included
 * [Tomcat Server 8.5](https://tomcat.apache.org/download-80.cgi#8.5.27)
 - [Click here](http://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/) for instructions on how to install the Tomcat Server
 
-### The Website
+### Cyberflix Homepage
 
 
-Say what the step will be
 
-```
-```Cyberflix Homepage```
-```
-
-![alt tag](http://i65.tinypic.com/2u97f5u.png"")
+![alt tag](http://i64.tinypic.com/25fmuco.png"")
 
 ## Authors
 
