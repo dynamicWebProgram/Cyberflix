@@ -11,7 +11,7 @@ public abstract class DAO {
 	private static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/sakila";
 
 	private static final String DB_USER = "root";
-	private static final String DB_PASSWORD = "BellaSR4093"; // fill this in with
+	private static final String DB_PASSWORD = " "; // fill this in with your password
 																														// your root pw
 
 	public static Connection getDBConnection() {
